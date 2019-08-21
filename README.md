@@ -1,5 +1,7 @@
 # Store-Number-Report
-Bigcommerce python file to create purchasing reports based on store id number. Can be run in python 2.7 or 3.x.
+Bigcommerce python file to create purchasing reports based on store id number. Can be run in python 2.7 or 3.x. Download link provided by https://minhaskamal.github.io/DownGit/#/home
+
+Download here: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jlbrady/Store-Number-Report
 
 
 
@@ -24,5 +26,8 @@ the above files.
   * If the report does not run and produce a file titled "UPDATED_ORDERS.csv" it likely means either the machine you are running this on does not have python installed (unlikely) or the path is incorrect. https://edu.google.com/openonline/course-builder/docs/1.10/set-up-course-builder/check-for-python.html#add-to-path
   
 # Output should be a file titled "UPDATED_ORDERS.csv"
+
+
+
 ==============================================================================
 
